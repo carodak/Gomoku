@@ -13,12 +13,12 @@ Classes:
 
 Below are the different classes of our game.
 
-Pions: A cell may have a pion
-Cellule: A grid is composed of cells
-Grille: Our Gomoku grid
-Curseur: Get where the cursor is
-IA: Algorithm MinMax, Alpha-beta pruning
-Joueur: Our player
-Menu: Main menu when you start the game  
+- Pions: A cell may have a pion
+- Cellule: A grid is composed of cells
+- Grille: Our Gomoku grid
+- Curseur: Get where the cursor is
+- IA: Algorithm MinMax, Alpha-beta pruning
+- Joueur: Our player
+- Menu: Main menu when you start the game  
 
 I encourage you to see the code for more details.
