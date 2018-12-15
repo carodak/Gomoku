@@ -1,6 +1,6 @@
 Realization:  A Renju game that is played alone or in pairs. We used Code::Blocks with SFML library (C++).
 
-Please kindly notice that the game was created during my second year of bachelor. We were a team of 4 people and had (at the time) written classes and comments in French.
+Please kindly notice that the game was created during my second year of bachelor at Université de Montpellier in France. We were a team of 4 people and had (at the time) written classes and comments in French.
 
 Objectives:
 
