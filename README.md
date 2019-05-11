@@ -22,3 +22,5 @@ Below are the different classes of our game.
 - Menu: Main menu when you start the game  
 
 I encourage you to see the code for more details.
+
+![alt text](grid.png)
