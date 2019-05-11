@@ -1,5 +1,7 @@
 Realization:  A Renju game that is played alone or in pairs. We used Code::Blocks with SFML library (C++).
 
+![alt text](grid.png)
+
 Please kindly notice that the game was created during my second year of bachelor at Université de Montpellier in France. We were a team of 4 people and had (at the time) written classes and comments in French.
 
 Objectives:
@@ -22,5 +24,3 @@ Below are the different classes of our game.
 - Menu: Main menu when you start the game  
 
 I encourage you to see the code for more details.
-
-![alt text](grid.png)
