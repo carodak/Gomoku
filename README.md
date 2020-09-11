@@ -24,6 +24,7 @@ Below are the different classes of our game.
 I encourage you to see the code for more details.
 
 ![alt text](grid.png)
+![alt text](uml.png)
 
 Personal note: 
   I am reviewing this 3 years later and the first thing that came up was "OMG, that was a lot of work!". Just reading again the report, and seeing the number of classes we have created made me realize how many efforts we put on it. Plus I confess that I read again our Facebook conversation (memories, memories :3), and we were trully overbooked! Back to this time, we had to choose a project, and we chose the hardiest one I think. We had no idea of Game Theory, game engines... we just created something from skretch with C++ (thanks to SFML of course). But we did it, and we did it very well!
